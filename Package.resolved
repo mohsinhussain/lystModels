@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LystDatabaseManager",
+        "repositoryURL": "https://github.com/mohsinhussain/lystDatabaseManager.git",
+        "state": {
+          "branch": "master",
+          "revision": "1b2acb0aa2ca42e5e4c03cf8b0e0864d63e98d0e",
+          "version": null
+        }
+      },
+      {
+        "package": "ObjectMapper",
+        "repositoryURL": "https://github.com/tristanhimmelman/ObjectMapper.git",
+        "state": {
+          "branch": null,
+          "revision": "0b96a734de3ea1c87374ae677064f86adb0716ec",
+          "version": "4.2.0"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa",
+        "state": {
+          "branch": null,
+          "revision": "d6f68b8f613dca3b13430da5e0be5d27b500f486",
+          "version": "10.7.7"
+        }
+      },
+      {
+        "package": "RealmDatabase",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "018adb3469c2882904febca251778129ef4a9b70",
+          "version": "10.7.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
