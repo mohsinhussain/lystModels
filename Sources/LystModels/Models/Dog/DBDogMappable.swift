@@ -25,6 +25,6 @@ extension DBDog: Mappable {
         history <- map["history"]
         reference_image_id <- map["reference_image_id"]
         image <- map["image"]
-//        version = getDataVersion(for: .completedOrder)
+        version = getDataVersion(for: .dogs)
     }
 }
